@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B786E482211EFB06002BB16A /* home.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B786E481211EFB06002BB16A /* home.jpg */; };
 		B7C0253720F9637E00F4CA96 /* a.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B7C0253620F9637E00F4CA96 /* a.jpg */; };
 		B7F6601420CEFB530036850B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7F6601320CEFB530036850B /* AppDelegate.swift */; };
 		B7F6601620CEFB530036850B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7F6601520CEFB530036850B /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		B786E481211EFB06002BB16A /* home.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = home.jpg; sourceTree = "<group>"; };
 		B7C0253620F9637E00F4CA96 /* a.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = a.jpg; sourceTree = "<group>"; };
 		B7F6601020CEFB530036850B /* UIButton Özellikler.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "UIButton Özellikler.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B7F6601320CEFB530036850B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				B7F6601320CEFB530036850B /* AppDelegate.swift */,
 				B7F6601520CEFB530036850B /* ViewController.swift */,
 				B7C0253620F9637E00F4CA96 /* a.jpg */,
+				B786E481211EFB06002BB16A /* home.jpg */,
 				B7F6601720CEFB530036850B /* Main.storyboard */,
 				B7F6601A20CEFB540036850B /* Assets.xcassets */,
 				B7F6601C20CEFB540036850B /* LaunchScreen.storyboard */,
@@ -126,6 +129,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B7F6601E20CEFB540036850B /* LaunchScreen.storyboard in Resources */,
+				B786E482211EFB06002BB16A /* home.jpg in Resources */,
 				B7C0253720F9637E00F4CA96 /* a.jpg in Resources */,
 				B7F6601B20CEFB540036850B /* Assets.xcassets in Resources */,
 				B7F6601920CEFB530036850B /* Main.storyboard in Resources */,

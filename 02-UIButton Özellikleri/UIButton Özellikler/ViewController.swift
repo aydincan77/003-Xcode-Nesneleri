@@ -18,9 +18,11 @@ class ViewController: UIViewController {
     @IBOutlet weak var butonBtn6: UIButton!
     @IBOutlet weak var labelLbl: UILabel!
     
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+        
         
         butonBtn2.frame = CGRect(x: 16, y: 150, width: 343, height: 80)
         
@@ -78,7 +80,7 @@ class ViewController: UIViewController {
 
         // Tanımlamayı butonBtn5'e atar
         butonBtn5.setAttributedTitle(attributedTextDeneme, for: .normal)
-        
+
     }
 
     override func didReceiveMemoryWarning() {
