@@ -50,7 +50,7 @@
                                 <fontDescription key="fontDescription" type="system" pointSize="15"/>
                                 <state key="normal" title="Button"/>
                                 <connections>
-                                    <action selector="denemeBtn:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Z3p-lQ-mPE"/>
+                                    <action selector="denemeBtn:" destination="BYZ-38-t0r" eventType="touchUpInside" id="3zN-Ev-RUA"/>
                                 </connections>
                             </button>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Label" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="EcJ-BK-Ywr">
