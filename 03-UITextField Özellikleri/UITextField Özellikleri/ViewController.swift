@@ -30,7 +30,7 @@ class ViewController: UIViewController, UITextFieldDelegate {
         resimliKullanıcıAdıTxt.layer.borderWidth = 1
         resimliKullanıcıAdıTxt.alpha = 1.00
         resimliKullanıcıAdıTxt.placeholder = "Kullanıcı Adı Giriniz"
-        resimliKullanıcıAdıTxt.clearButtonMode = UITextFieldViewMode.whileEditing
+        resimliKullanıcıAdıTxt.clearButtonMode = UITextField.ViewMode.whileEditing
         resimliKullanıcıAdıTxt.keyboardType = UIKeyboardType.default
         resimliKullanıcıAdıTxt.autocapitalizationType = UITextAutocapitalizationType.words
         resimliKullanıcıAdıTxt.layer.cornerRadius = 25
@@ -39,7 +39,7 @@ class ViewController: UIViewController, UITextFieldDelegate {
         resimliKullanıcıAdıTxt.textColor = UIColor.red
         resimliKullanıcıAdıTxt.font = UIFont(name: "Helvetica", size: 30)
         
-        resimliKullanıcıAdıTxt.leftViewMode = UITextFieldViewMode.always
+        resimliKullanıcıAdıTxt.leftViewMode = UITextField.ViewMode.always
         let resim = UIImageView(frame: CGRect(x: 0, y: 0, width: 40, height: 40))
         resim.image = UIImage(named: "a.png")
         resimliKullanıcıAdıTxt.leftView = resim
