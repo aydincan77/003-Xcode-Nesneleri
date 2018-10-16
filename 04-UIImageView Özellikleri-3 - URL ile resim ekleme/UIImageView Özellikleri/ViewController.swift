@@ -13,8 +13,7 @@ class ViewController: UIViewController {
 
     @IBOutlet weak var URLYükle: UIImageView!
 
-    
-    let urlYolu = "http://www.math.uwaterloo.ca/~hdesterc/websiteW/personal/pictures/argentina2003/200311-set8/images/200311-set8_6_400x600.jpg"
+    let urlYolu = "https://images.pexels.com/photos/1115090/pexels-photo-1115090.jpeg"
 
     override func viewDidLoad() {
         super.viewDidLoad()
