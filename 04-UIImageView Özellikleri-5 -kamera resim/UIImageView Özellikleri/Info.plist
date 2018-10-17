@@ -41,8 +41,6 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
-	<key>NSPhotoLibraryUsageDescription</key>
-	<string>Film Rulosuna ulaşmak için izin verir misin?</string>
 	<key>NSCameraUsageDescription</key>
 	<string>Kamerana ulaşmak için izin verir misin?</string>
 </dict>
